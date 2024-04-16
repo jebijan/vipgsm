@@ -1,5 +1,5 @@
 //profile-title:jbsing base64:8J+UpSBXQVJQIPCflKU=
-//profile-update-interval: 24
+//profile-update-interval: 1
 //subscription-userinfo: upload=10; download=10; total=10737418240000000; expire=30
 //support-url: https://t.me/vipgsm
 //profile-web-page-url: https://vipgsm.net
@@ -17,8 +17,8 @@ warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
 #profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBXYXJwIPCfjJA=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+#support-url: https://github.com/vipgsm
+#profile-web-page-url: https://github.com/vipgsmin
 
 warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
 warp://162.159.193.25:939?ifp=5-10#WiW-🟢&&detour=warp://162.159.193.234:939?ifp=5-10#WARP-🟢

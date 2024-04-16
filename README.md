@@ -1,4 +1,4 @@
-//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-title:jbsing base64:8J+UpSBXQVJQIPCflKU=
 //profile-update-interval: 24
 //subscription-userinfo: upload=10; download=10; total=10737418240000000; expire=30
 //support-url: https://t.me/vipgsm
